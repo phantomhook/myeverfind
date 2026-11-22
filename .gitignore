@@ -5,3 +5,11 @@ node_modules/
 dist/
 build/
 *.log
+
+# Video production: heavy media stays out of git (originals are checksummed in Marketing/video/README.md)
+Marketing/video/source/
+Marketing/video/working/
+Marketing/video/previews/
+Marketing/video/exports/
+Marketing/video/assets/music/
+Marketing/video/film/node_modules
