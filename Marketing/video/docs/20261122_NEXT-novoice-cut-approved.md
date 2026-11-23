@@ -17,3 +17,14 @@
 | Tom's OK on the no-voice direction | Not asked yet |
 | Releases | None on file |
 | Hook copy ("richer", "aficionados") | Andrew's words |
+
+## Sent (per Andrew, 2026-11-22)
+v0.4 posted unlisted on YouTube: https://youtu.be/WDG-Y5BWd18 and the link texted to Tom. The text itself was not seen or verified by Claude. Still review use: Suno free-tier music, third-party listing photos, no releases. Next: Tom's reply.
+
+## Tom's reply (per Andrew, pasted 2026-11-22, not seen in Gmail)
+| Item | State |
+|---|---|
+| Video v0.4 | Tom: "great and heading in the right direction, getting me out of it!" Closes "Tom's OK on the no-voice direction". Music, listing photos, releases still open before public use |
+| 26-search comparison | Tom ran the same 26 searches on ChatGPT, Google and MyEverFind. His bottom line: AI tells you what to look for, MyEverFind shows every one for sale now; not smarter than AI or faster than Google, but deeper and more relevant. **Data not seen: ask for the spreadsheet.** Do not repeat "every one": eBay's 5,000-search cap can leave Reverb-only results (UNVERIFIED claim, his) |
+| New About page | Pasted by Tom. Affiliate disclosure present, points to Terms of Service. Check the Terms page carries it; Reverb cookie window still unconfirmed |
+| Call | Today's call moved to 11/23 (Tom, "rabbit hole" on the AI comparison) |
